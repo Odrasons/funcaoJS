@@ -1,0 +1,2 @@
+# funcaoJS
+logica JS
